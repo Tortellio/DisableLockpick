@@ -1,0 +1,5 @@
+D:\PROGRAMMING\Games\Unturned\Plugins\Source RAW\DisableLockpick\bin\Release\DisableLockpick.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Source RAW\DisableLockpick\bin\Release\DisableLockpick.pdb
+D:\PROGRAMMING\Games\Unturned\Plugins\Source RAW\DisableLockpick\obj\Release\DisableLockpick.csprojAssemblyReference.cache
+D:\PROGRAMMING\Games\Unturned\Plugins\Source RAW\DisableLockpick\obj\Release\DisableLockpick.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Source RAW\DisableLockpick\obj\Release\DisableLockpick.pdb
